@@ -1,0 +1,23 @@
+# Discord bot authentication token
+TOKEN=""
+
+# Command prefix for the bot
+PREFIX=","
+
+# Channel ID for the honeypot, a trap to detect or deter malicious actions
+HONEYPOT_CHANNEL_ID=""
+
+# Role ID for blacklisting, restricting certain users
+BLACKLIST_ROLE_ID=""
+
+# Role ID for administrators, users with elevated privileges
+ADMIN_ROLE_ID=""
+
+# Role ID for verified users
+VERIFIED_ROLE_ID=""
+
+# Channel ID for notifying sanctions or disciplinary actions
+SANCTION_NOTICE_CHANNEL_ID=""
+
+# Server ID for the Discord server where the bot is active
+SERVER_ID=""
