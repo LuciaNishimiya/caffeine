@@ -1,7 +1,7 @@
-# Caffeine - Discord Bot
+# Caffeine - Discord SelfBot
 
 ## Description
-Caffeine is a multifunctional Discord bot designed to manage certain account functions and provide additional utilities such as message deletion.
+Caffeine is a multifunctional Discord SelfBot designed to manage certain account functions and provide additional utilities such as message deletion.
 
 ## Features
 
